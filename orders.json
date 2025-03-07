@@ -1,0 +1,734 @@
+[
+  {
+    "id": 1,
+    "cartItems": {
+      "Greek salad": {
+        "id": "5",
+        "name": "Lasagna Rolls",
+        "price": 140,
+        "quantity": 1
+      },
+      "Veg salad": {
+        "id": "6",
+        "name": "Peri Peri Rolls",
+        "price": 120,
+        "quantity": 1
+      }
+    },
+    "totalAmount": 502,
+    "date": "2025-02-24T05:21:28.930Z"
+  },
+  {
+    "id": 2,
+    "cartItems": {
+      "Greek salad": {
+        "id": "5",
+        "name": "Lasagna Rolls",
+        "price": 140,
+        "quantity": 1
+      },
+      "Veg salad": {
+        "id": "6",
+        "name": "Peri Peri Rolls",
+        "price": 120,
+        "quantity": 1
+      },
+      "Clover Salad": {
+        "id": "8",
+        "name": "Veg Rolls",
+        "price": 150,
+        "quantity": 1
+      }
+    },
+    "totalAmount": 652,
+    "date": "2025-02-24T05:37:55.764Z"
+  },
+  {
+    "id": 3,
+    "cartItems": {
+      "Greek salad": {
+        "id": "2",
+        "name": "Veg salad",
+        "price": 180,
+        "quantity": 1
+      },
+      "Veg salad": {
+        "id": "3",
+        "name": "Clover Salad",
+        "price": 160,
+        "quantity": 1
+      }
+    },
+    "totalAmount": 462,
+    "date": "2025-02-24T05:43:23.693Z"
+  },
+  {
+    "id": 4,
+    "cartItems": {
+      "Greek salad": {
+        "id": "2",
+        "name": "Veg salad",
+        "price": 180,
+        "quantity": 1
+      }
+    },
+    "totalAmount": 302,
+    "date": "2025-02-24T06:17:03.820Z"
+  },
+  {
+    "id": 5,
+    "cartItems": {
+      "Greek salad": {
+        "id": "6",
+        "name": "Peri Peri Rolls",
+        "price": 120,
+        "quantity": 1
+      }
+    },
+    "totalAmount": 302,
+    "date": "2025-02-24T06:59:54.641Z"
+  },
+  {
+    "id": 6,
+    "cartItems": {},
+    "totalAmount": 182,
+    "date": "2025-02-24T07:25:01.259Z"
+  },
+  {
+    "id": 7,
+    "cartItems": {
+      "Greek salad": {
+        "id": "10",
+        "name": "Fruit Ice Cream",
+        "price": 220,
+        "quantity": 1
+      }
+    },
+    "totalAmount": 402,
+    "date": "2025-02-26T05:33:39.260Z"
+  },
+  {
+    "id": 8,
+    "cartItems": {
+      "Greek salad": {
+        "id": "2",
+        "name": "Veg salad",
+        "price": 180,
+        "quantity": 1
+      },
+      "Veg salad": {
+        "id": "10",
+        "name": "Fruit Ice Cream",
+        "price": 220,
+        "quantity": 1
+      }
+    },
+    "totalAmount": 522,
+    "date": "2025-02-26T06:01:26.499Z"
+  },
+  {
+    "id": 9,
+    "cartItems": {
+      "Greek salad": {
+        "id": "3",
+        "name": "Clover Salad",
+        "price": 160,
+        "quantity": 1
+      }
+    },
+    "totalAmount": 342,
+    "date": "2025-03-05T11:51:00.426Z"
+  },
+  {
+    "id": 10,
+    "cartItems": {},
+    "totalAmount": 482,
+    "date": "2025-03-05T12:11:41.306Z"
+  },
+  {
+    "id": 11,
+    "cartItems": {},
+    "totalAmount": 482,
+    "date": "2025-03-05T12:12:36.684Z"
+  },
+  {
+    "id": 12,
+    "cartItems": {
+      "Greek salad": {
+        "id": "11",
+        "name": "Jar Ice Cream",
+        "price": 100,
+        "quantity": 4
+      }
+    },
+    "totalAmount": 882,
+    "date": "2025-03-05T12:13:45.307Z"
+  },
+  {
+    "id": 13,
+    "cartItems": {},
+    "totalAmount": 302,
+    "date": "2025-03-05T12:14:24.457Z"
+  },
+  {
+    "id": 14,
+    "cartItems": {
+      "Greek salad": {
+        "id": "13",
+        "name": "Chicken Sandwich",
+        "price": 120,
+        "quantity": 4
+      }
+    },
+    "totalAmount": 782,
+    "date": "2025-03-05T12:15:22.628Z"
+  },
+  {
+    "id": 15,
+    "cartItems": {
+      "Greek salad": {
+        "id": "13",
+        "name": "Chicken Sandwich",
+        "price": 120,
+        "quantity": 4
+      }
+    },
+    "totalAmount": 782,
+    "date": "2025-03-05T12:16:38.155Z"
+  },
+  {
+    "id": 16,
+    "cartItems": {
+      "Greek salad": {
+        "id": "7",
+        "name": "Chicken Rolls",
+        "price": 200,
+        "quantity": 5
+      }
+    },
+    "totalAmount": 1642,
+    "date": "2025-03-05T12:19:16.022Z"
+  },
+  {
+    "id": 17,
+    "cartItems": {
+      "Greek salad": {
+        "id": "15",
+        "name": "Grilled Sandwich",
+        "price": 160,
+        "quantity": 3
+      }
+    },
+    "totalAmount": 842,
+    "date": "2025-03-05T12:40:37.385Z"
+  },
+  {
+    "id": 18,
+    "cartItems": {
+      "Greek salad": {
+        "id": "15",
+        "name": "Grilled Sandwich",
+        "price": 160,
+        "quantity": 3
+      }
+    },
+    "totalAmount": 842,
+    "date": "2025-03-05T12:43:45.221Z"
+  },
+  {
+    "id": 19,
+    "cartItems": {
+      "Greek salad": {
+        "id": "15",
+        "name": "Grilled Sandwich",
+        "price": 160,
+        "quantity": 3
+      },
+      "Veg salad": {
+        "id": "29",
+        "name": "Buttter Noodles",
+        "price": 140,
+        "quantity": 2
+      },
+      "Clover Salad": {
+        "id": "30",
+        "name": "Veg Noodles",
+        "price": 120,
+        "quantity": 2
+      }
+    },
+    "totalAmount": 1362,
+    "date": "2025-03-05T12:47:03.701Z"
+  },
+  {
+    "id": 20,
+    "cartItems": {
+      "Greek salad": 2,
+      "Clover Salad": 1
+    },
+    "totalAmount": 160,
+    "date": "2025-03-06T09:48:51.347Z"
+  },
+  {
+    "id": 21,
+    "cartItems": {
+      "Greek salad": {
+        "id": "18",
+        "name": "Vegan Cake",
+        "price": 120,
+        "quantity": 1
+      },
+      "Veg salad": {
+        "id": "19",
+        "name": "Butterscotch Cake",
+        "price": 200,
+        "quantity": 1
+      }
+    },
+    "totalAmount": 462,
+    "date": "2025-03-06T10:47:13.170Z"
+  },
+  {
+    "id": 22,
+    "cartItems": {
+      "Greek salad": {
+        "id": "18",
+        "name": "Vegan Cake",
+        "price": 120,
+        "quantity": 1
+      }
+    },
+    "totalAmount": 262,
+    "date": "2025-03-06T10:48:46.666Z"
+  },
+  {
+    "id": 23,
+    "cartItems": {
+      "Greek salad": {
+        "id": "18",
+        "name": "Vegan Cake",
+        "price": 120,
+        "quantity": 1
+      }
+    },
+    "totalAmount": 262,
+    "date": "2025-03-06T10:52:20.807Z"
+  },
+  {
+    "id": 24,
+    "cartItems": {
+      "Greek salad": {
+        "id": "11",
+        "name": "Jar Ice Cream",
+        "price": 100,
+        "quantity": 3
+      }
+    },
+    "totalAmount": 1182,
+    "date": "2025-03-06T10:52:58.758Z"
+  },
+  {
+    "id": 25,
+    "cartItems": {},
+    "totalAmount": 882,
+    "date": "2025-03-06T10:56:15.956Z"
+  },
+  {
+    "id": 26,
+    "cartItems": {},
+    "totalAmount": 882,
+    "date": "2025-03-06T10:59:09.615Z"
+  },
+  {
+    "id": 27,
+    "cartItems": {
+      "Greek salad": {
+        "id": "11",
+        "name": "Jar Ice Cream",
+        "price": 100,
+        "quantity": 4
+      }
+    },
+    "totalAmount": 1282,
+    "date": "2025-03-06T10:59:40.156Z"
+  },
+  {
+    "id": 28,
+    "cartItems": {
+      "Greek salad": {
+        "id": "11",
+        "name": "Jar Ice Cream",
+        "price": 100,
+        "quantity": 4
+      }
+    },
+    "totalAmount": 1282,
+    "date": "2025-03-06T11:01:24.864Z"
+  },
+  {
+    "id": 29,
+    "cartItems": {
+      "Greek salad": {
+        "id": "1",
+        "name": "Greek salad",
+        "price": 12,
+        "quantity": 4
+      }
+    },
+    "totalAmount": 1282,
+    "date": "2025-03-06T11:01:46.886Z"
+  },
+  {
+    "id": 30,
+    "cartItems": {
+      "Greek salad": {
+        "id": "14",
+        "name": "Vegan Sandwich",
+        "price": 180,
+        "quantity": 1
+      },
+      "Veg salad": {
+        "id": "15",
+        "name": "Grilled Sandwich",
+        "price": 160,
+        "quantity": 1
+      }
+    },
+    "totalAmount": 462,
+    "date": "2025-03-06T11:07:30.884Z"
+  },
+  {
+    "id": 31,
+    "cartItems": {},
+    "totalAmount": 242,
+    "date": "2025-03-06T11:22:15.763Z"
+  },
+  {
+    "id": 32,
+    "cartItems": [
+      {
+        "id": "6",
+        "name": "Peri Peri Rolls",
+        "price": 12,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 122,
+    "date": "2025-03-06T11:26:15.771Z"
+  },
+  {
+    "id": 33,
+    "cartItems": [
+      {
+        "id": "5",
+        "name": "Lasagna Rolls",
+        "price": 14,
+        "quantity": 4
+      },
+      {
+        "id": "6",
+        "name": "Peri Peri Rolls",
+        "price": 12,
+        "quantity": 1
+      },
+      {
+        "id": "7",
+        "name": "Chicken Rolls",
+        "price": 20,
+        "quantity": 3
+      }
+    ],
+    "totalAmount": 1282,
+    "date": "2025-03-06T11:26:59.310Z"
+  },
+  {
+    "id": 34,
+    "cartItems": [
+      {
+        "id": "6",
+        "name": "Peri Peri Rolls",
+        "price": 12,
+        "quantity": 2
+      },
+      {
+        "id": "11",
+        "name": "Jar Ice Cream",
+        "price": 10,
+        "quantity": 4
+      }
+    ],
+    "totalAmount": 242,
+    "date": "2025-03-06T11:44:48.132Z"
+  },
+  {
+    "id": 35,
+    "cartItems": [
+      {
+        "id": "5",
+        "name": "Lasagna Rolls",
+        "price": 14,
+        "quantity": 2
+      },
+      {
+        "id": "11",
+        "name": "Jar Ice Cream",
+        "price": 10,
+        "quantity": 4
+      }
+    ],
+    "totalAmount": 242,
+    "date": "2025-03-06T11:45:27.682Z"
+  },
+  {
+    "id": 36,
+    "cartItems": [
+      {
+        "id": "5",
+        "name": "Lasagna Rolls",
+        "price": 14,
+        "quantity": 4
+      },
+      {
+        "id": "6",
+        "name": "Peri Peri Rolls",
+        "price": 12,
+        "quantity": 1
+      },
+      {
+        "id": "7",
+        "name": "Chicken Rolls",
+        "price": 20,
+        "quantity": 3
+      },
+      {
+        "id": "27",
+        "name": "Creamy Pasta",
+        "price": 16,
+        "quantity": 3
+      }
+    ],
+    "totalAmount": 1762,
+    "date": "2025-03-06T11:47:29.164Z"
+  },
+  {
+    "id": 37,
+    "cartItems": [
+      {
+        "id": "5",
+        "name": "Lasagna Rolls",
+        "price": 140,
+        "quantity": 4
+      },
+      {
+        "id": "6",
+        "name": "Peri Peri Rolls",
+        "price": 120,
+        "quantity": 1
+      },
+      {
+        "id": "7",
+        "name": "Chicken Rolls",
+        "price": 200,
+        "quantity": 3
+      },
+      {
+        "id": "27",
+        "name": "Creamy Pasta",
+        "price": 160,
+        "quantity": 3
+      }
+    ],
+    "totalAmount": 1762,
+    "date": "2025-03-06T11:51:09.544Z"
+  },
+  {
+    "id": 38,
+    "cartItems": [
+      {
+        "id": "2",
+        "name": "Veg salad",
+        "price": 180,
+        "quantity": 2
+      },
+      {
+        "id": "10",
+        "name": "Fruit Ice Cream",
+        "price": 220,
+        "quantity": 4
+      }
+    ],
+    "totalAmount": 242,
+    "date": "2025-03-06T11:53:36.086Z"
+  },
+  {
+    "id": 39,
+    "cartItems": [
+      {
+        "id": "1",
+        "name": "Greek salad",
+        "price": 120,
+        "quantity": 2
+      },
+      {
+        "id": "2",
+        "name": "Veg salad",
+        "price": 180,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 622,
+    "date": "2025-03-06T19:07:15.004Z"
+  },
+  {
+    "id": 40,
+    "cartItems": [
+      {
+        "id": "1",
+        "name": "Greek salad",
+        "price": 120,
+        "quantity": 2
+      },
+      {
+        "id": "2",
+        "name": "Veg salad",
+        "price": 180,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 622,
+    "date": "2025-03-06T19:07:40.020Z"
+  },
+  {
+    "id": 41,
+    "cartItems": [
+      {
+        "id": "1",
+        "name": "Greek salad",
+        "price": 120,
+        "quantity": 2
+      },
+      {
+        "id": "2",
+        "name": "Veg salad",
+        "price": 180,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 622,
+    "date": "2025-03-06T20:08:54.183Z"
+  },
+  {
+    "id": 42,
+    "cartItems": [
+      {
+        "id": "1",
+        "name": "Greek salad",
+        "price": 120,
+        "quantity": 2
+      },
+      {
+        "id": "2",
+        "name": "Veg salad",
+        "price": 180,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 622,
+    "date": "2025-03-06T20:16:19.809Z"
+  },
+  {
+    "id": 43,
+    "cartItems": [
+      {
+        "id": "1",
+        "name": "Greek salad",
+        "price": 120,
+        "quantity": 2
+      },
+      {
+        "id": "2",
+        "name": "Veg salad",
+        "price": 180,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 622,
+    "date": "2025-03-06T20:17:37.803Z"
+  },
+  {
+    "id": 44,
+    "cartItems": [
+      {
+        "id": "1",
+        "name": "Greek salad",
+        "price": 120,
+        "quantity": 2
+      },
+      {
+        "id": "3",
+        "name": "Clover Salad",
+        "price": 160,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 400,
+    "date": "2025-03-07T04:42:54.484Z"
+  },
+  {
+    "id": 45,
+    "cartItems": [
+      {
+        "id": "6",
+        "name": "Peri Peri Rolls",
+        "price": 120,
+        "quantity": 4
+      }
+    ],
+    "totalAmount": 482,
+    "date": "2025-03-07T04:55:32.481Z"
+  },
+  {
+    "id": 46,
+    "cartItems": [
+      {
+        "id": "3",
+        "name": "Clover Salad",
+        "price": 160,
+        "quantity": 1
+      },
+      {
+        "id": "4",
+        "name": "Chicken Salad",
+        "price": 240,
+        "quantity": 1
+      },
+      {
+        "id": "6",
+        "name": "Peri Peri Rolls",
+        "price": 120,
+        "quantity": 4
+      }
+    ],
+    "totalAmount": 882,
+    "date": "2025-03-07T04:57:09.337Z"
+  },
+  {
+    "id": 47,
+    "cartItems": [
+      {
+        "id": "1",
+        "name": "Greek salad",
+        "price": 120,
+        "quantity": 2
+      },
+      {
+        "id": "3",
+        "name": "Clover Salad",
+        "price": 160,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 400,
+    "date": "2025-03-07T05:00:00.466Z"
+  }
+]
