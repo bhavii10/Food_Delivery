@@ -1,0 +1,20 @@
+[
+  {
+    "code": "DISCOUNT20",
+    "discount": 20,
+    "expiresAt": "2025-12-31",
+    "used": false
+  },
+  {
+    "code": "DISCOUNT10",
+    "discount": 10,
+    "expiresAt": "2025-12-31",
+    "used": false
+  },
+  {
+    "code": "DISCOUNT50",
+    "discount": 50,
+    "expiresAt": "2025-12-15",
+    "used": false
+  }
+]
