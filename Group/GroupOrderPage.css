@@ -1,0 +1,55 @@
+.create-group-container {
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .create-group-container h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .create-group-container button {
+    background-color: #ff4c4c;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s ease;
+  }
+  
+  .create-group-container button:hover {
+    background-color: #e03c3c;
+  }
+  
+  .group-order-page {
+    max-width: 600px;
+    margin: 80px auto;
+    padding: 30px;
+    background: #fafafa;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  }
+  
+  .group-order-page h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .group-order-page ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .group-order-page li {
+    font-size: 18px;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+  }

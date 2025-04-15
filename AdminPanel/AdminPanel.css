@@ -1,0 +1,90 @@
+/* Admin Panel Container */
+.admin-panel {
+    width: 90%;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background: linear-gradient(135deg, #ebf2f5, #f4f8fa);
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  h2 {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Table Styling */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  th, td {
+    padding: 12px;
+    border: 1px solid #e27610;
+    text-align: center;
+  }
+  
+  th {
+    background: #ff6b00;
+    color: white;
+    font-weight: bold;
+  }
+  
+  /* Alternate Row Colors */
+  tr:nth-child(even) {
+    background: #fff7eb;
+  }
+  
+  tr:nth-child(odd) {
+    background: white;
+  }
+  
+  /* Buttons */
+  button {
+    padding: 8px 12px;
+    margin: 5px;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+  }
+  
+  /* Status Buttons */
+  button:nth-child(1) {
+    background-color: #ff9a3c;
+    color: white;
+  }
+  
+  button:nth-child(2) {
+    background-color: #ff6b00;
+    color: white;
+  }
+  
+  button:nth-child(3) {
+    background-color: #ff3b00;
+    color: white;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* No Orders Message */
+  td[colspan="4"] {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 20px;
+    color: #ff6b00;
+  }
+  
