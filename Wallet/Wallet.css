@@ -1,0 +1,47 @@
+.wallet-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .wallet-container h2 {
+    color: #49557e;
+  }
+  
+  .wallet-container p {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .wallet-container input {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #49557e;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 80%;
+  }
+  
+  .wallet-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .wallet-buttons button {
+    background-color: #49557e;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .wallet-buttons button:hover {
+    background-color: #3a4466;
+  }
+  
+  .wallet-message {
+    margin-top: 10px;
+    font-weight: bold;
+    color: green;
+  }
